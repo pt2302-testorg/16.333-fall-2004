@@ -15,3 +15,7 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 40
+- identifier: external--1632447086-1688126286424
+  name: Google
+  url: https://www.google.com
+  weight: 50
