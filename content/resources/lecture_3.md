@@ -4,6 +4,7 @@ description: 'Summary of the topics covered in lecture:
 
   coordinate systems, euler angles, and quaternions.'
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/9f042ee5f0597fd8913f6ac53bbb917b_lecture_3.pdf
+file_size: 377704
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

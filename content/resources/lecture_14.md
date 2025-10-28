@@ -4,6 +4,7 @@ description: 'Summary of the topics covered in lecture:
 
   equations of motion in a nonuniform atmosphere, and gusts and winds.'
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/fecac90444be983eb19e0451e739692c_lecture_14.pdf
+file_size: 223103
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

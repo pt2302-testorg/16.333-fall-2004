@@ -4,6 +4,7 @@ description: 'Summary of the topics covered in lecture:
 
   basic aircraft control concepts, and basic control approaches.'
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/c66c985646924af57b2f78b0ebf56d68_lecture_9.pdf
+file_size: 607375
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 13, and contains program code.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/d02173da8018df9d7bca7506bac96f43_altit_simul.m
+file_size: 9566
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

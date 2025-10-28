@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for homework 2.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/3a7d7464367c9dec38946768e949f5c1_hw2_hint.pdf
+file_size: 21401
 file_type: application/pdf
 learning_resource_types:
 - Assignments

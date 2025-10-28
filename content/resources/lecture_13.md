@@ -4,6 +4,7 @@ description: 'Summary of the topics covered in lecture:
 
   altitude controller, and autolanding controller.'
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/76c576f96472bf3052a038afba82feea_lecture_13.pdf
+file_size: 778177
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

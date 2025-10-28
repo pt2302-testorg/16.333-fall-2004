@@ -2,6 +2,7 @@
 content_type: resource
 description: 5 problems based on designing of aircraft.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/b7445dba24e902658e58272133687a5f_hw3.pdf
+file_size: 141398
 file_type: application/pdf
 learning_resource_types:
 - Assignments

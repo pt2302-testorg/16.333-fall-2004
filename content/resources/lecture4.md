@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 6, and contains program code.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/65d2451d3566ca3a6daa8171040d43d3_lecture4.m
+file_size: 7980
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
